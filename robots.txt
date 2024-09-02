@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://affordedpdf.github.io/sitemap/sitemap.txt
